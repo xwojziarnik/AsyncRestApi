@@ -5,11 +5,13 @@ Doing [tutorial](https://www.youtube.com/watch?v=psqZB4cgC0A&t=1740s) from Youtu
 Almost done:
 - [x] Created Sanic app,
 - [x] Created two endpoints,
-- [x] Created file .yml
+- [x] Created file .yml,
+- [x] Downloaded, installed and runned Docker,
+- [x] Connected into db (printed 'Hello World!' while running a server)
 
 To do:
-- [ ] Everything else, because my MacBook Pro is not supported by newest Docker Compose version.
+- [ ] Rest of tutorial.
 
-Stopped on 26 min 27 sec.
+Stopped on 36 min 26 sec.
 
 
